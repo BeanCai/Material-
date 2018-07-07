@@ -1,2 +1,2 @@
 # Material-
-For Statistic learning
+For Statistical learning
